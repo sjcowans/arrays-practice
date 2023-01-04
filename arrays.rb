@@ -11,3 +11,10 @@ is_cool = [true, true, true, true]
 is_cool.unshift(false)
 #will add false to the front of the array
 
+
+#index positions just refer to the numeric order of items inside of an array
+#arrays start counting from 0 
+#to call an item from an array it is simply array_name(number)
+#eg:
+puts group_7[2]
+#will put Anegl
