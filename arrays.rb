@@ -17,4 +17,8 @@ is_cool.unshift(false)
 #to call an item from an array it is simply array_name(number)
 #eg:
 puts group_7[2]
-#will put Anegl
+#will put Angel
+
+#arr.first and arr.last list the first and last (respectively) items
+#this will put Sean because it is first in that array
+puts group_7.first
